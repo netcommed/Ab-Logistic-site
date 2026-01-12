@@ -1,0 +1,7 @@
+{
+  "name": "AB Logistics - Modern Freight Solutions",
+  "description": "A high-end logistics landing page for AB Logistics featuring a real-time Voice AI Agent powered by Gemini Live API for instant shipping assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
